@@ -1,0 +1,62 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: white;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    margin: 0 10px;
+    transition: color 0.3s ease; /* Adding transition effect */
+}
+
+nav a:hover {
+    color: red; /* Change color on hover (you can use any color you prefer) */
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: Red;
+    padding: 10px;
+    text-align: center;
+}
+
+header {
+    color: red;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.movie{
+    width: 150px;
+    height: 222px;
+}
+img{
+    width:250px;
+    height:250px;
+}
